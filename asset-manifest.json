@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/keluarBerapa-react/static/css/main.59e576c0.chunk.css",
+    "main.js": "/keluarBerapa-react/static/js/main.b84b34ca.chunk.js",
+    "main.js.map": "/keluarBerapa-react/static/js/main.b84b34ca.chunk.js.map",
+    "runtime-main.js": "/keluarBerapa-react/static/js/runtime-main.1a54df34.js",
+    "runtime-main.js.map": "/keluarBerapa-react/static/js/runtime-main.1a54df34.js.map",
+    "static/css/2.74189dbb.chunk.css": "/keluarBerapa-react/static/css/2.74189dbb.chunk.css",
+    "static/js/2.1ce63dfa.chunk.js": "/keluarBerapa-react/static/js/2.1ce63dfa.chunk.js",
+    "static/js/2.1ce63dfa.chunk.js.map": "/keluarBerapa-react/static/js/2.1ce63dfa.chunk.js.map",
+    "index.html": "/keluarBerapa-react/index.html",
+    "precache-manifest.4be297f631706e3b13f9d235a82e79dd.js": "/keluarBerapa-react/precache-manifest.4be297f631706e3b13f9d235a82e79dd.js",
+    "service-worker.js": "/keluarBerapa-react/service-worker.js",
+    "static/css/2.74189dbb.chunk.css.map": "/keluarBerapa-react/static/css/2.74189dbb.chunk.css.map",
+    "static/css/main.59e576c0.chunk.css.map": "/keluarBerapa-react/static/css/main.59e576c0.chunk.css.map",
+    "static/js/2.1ce63dfa.chunk.js.LICENSE.txt": "/keluarBerapa-react/static/js/2.1ce63dfa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a54df34.js",
+    "static/css/2.74189dbb.chunk.css",
+    "static/js/2.1ce63dfa.chunk.js",
+    "static/css/main.59e576c0.chunk.css",
+    "static/js/main.b84b34ca.chunk.js"
+  ]
+}
